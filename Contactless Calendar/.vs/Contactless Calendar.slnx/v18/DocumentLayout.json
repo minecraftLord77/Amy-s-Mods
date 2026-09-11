@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Contactless Calendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984B3054-B6A3-B0F3-729A-1E6D8B334310}|Contactless Calendar.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\probably stolen\\11modding11\\contactless calendar\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984B3054-B6A3-B0F3-729A-1E6D8B334310}|Contactless Calendar.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Contactless Calendar\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Contactless Calendar\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAABoBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T18:38:52.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

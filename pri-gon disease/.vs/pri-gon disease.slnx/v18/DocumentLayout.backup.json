@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\pri-gon disease\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378E89BC-6B7A-40CE-B4EE-0788EE40033D}|pri-gon disease.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\probably stolen\\11modding11\\pri-gon disease\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378E89BC-6B7A-40CE-B4EE-0788EE40033D}|pri-gon disease.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\pri-gon disease\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\pri-gon disease\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:25:24.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

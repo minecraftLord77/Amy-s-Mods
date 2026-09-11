@@ -1,0 +1,1814 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ShowcaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ShowcaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListDict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListDict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PlayerStore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\TagState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\TagState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MiscItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MiscItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Gunsmith\u0027m\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gunsmith\u0027m\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemTypeUIElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ItemTypeUIElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NegociationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\NegociationData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ToggleAppearanceHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ToggleAppearanceHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DropDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\DropDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWanted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expedited Shipping\\Expedited Shipping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expedited Shipping\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineFurnace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MachineFurnace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTierSubstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTierSubstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListRev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListRev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GameItemElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\GameItemElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CustomUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\CustomUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GridShapeBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\GridShapeBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\HusbandryHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\HusbandryHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Augging Out\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Augging Out\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\HealthData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\HealthData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ExchangeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ExchangeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AdvCalendarUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AdvCalendarUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListAppraisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListAppraisal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ScavHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ScavHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListBarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListBarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterOfferList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\BarterOfferList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ChemicalFeedbackHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ChemicalFeedbackHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ExchangeBarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ExchangeBarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\BarterResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\BarterHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\BiggerBudgets\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BiggerBudgets\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\CommissaryUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineRecharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MachineRecharger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\FurnitureItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\FurnitureItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\CommissaryItemData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\CommissaryElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\CommissaryData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreEventManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreEventManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NewsUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\NewsUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreOperationManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreOperationManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreStation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreStation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ModItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModHook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ModHook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\Candle\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\Candle\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DirectoryMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\DirectoryMaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoreEvents\\MoreEvents\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineFridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MachineFridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\UnusedDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\UnusedDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModuleDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ModuleDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NpcCharacterItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\NpcCharacterItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\OrganDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\OrganDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PerkDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PerkDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerAbilityItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PlayerAbilityItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerCharacterItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PlayerCharacterItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ShipItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ShipItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StandardCombatAbilityDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StandardCombatAbilityDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\WineDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\WineDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StationMachinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StationMachinery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\TechnicianBackpackDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\TechnicianBackpackDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ToolDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ToolDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ConstructionItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ConstructionItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MachineHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineHydroponic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MachineHydroponic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AugScanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AugScanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PowerHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PowerHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientDialogList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientDialogList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineAlarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MachineAlarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\Candle\\bin\\Release\\netstandard2.1\\Candle.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\Candle\\bin\\Release\\netstandard2.1\\Candle.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Schematic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\Schematic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MapUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\MapUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreDoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StolenHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StolenHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StationFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StationFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\Station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\SoldItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SoldItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RatTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\RatTrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RecipeSelectHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\RecipeSelectHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RecipeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\RecipeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NavigationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\NavigationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemCondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ItemCondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ItemCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmmoBoxHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AmmoBoxHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Arm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\Arm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AppGemstoneHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AppGemstoneHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\BoxDuplicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\BoxDuplicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\AlcoholMerchantPerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\AlcoholMerchantPerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PhoneDialogList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PhoneDialogList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ModHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CalendarEventElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\CalendarEventElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\LockHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\LockHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Assembly-CSharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\Assembly-CSharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AnimalCage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AnimalCage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PhoneUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PhoneUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RaidManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\RaidManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StoreEventManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreEventManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreEventManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreEventManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreEventManager.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAAN4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:26:04.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "PhoneDialogList.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PhoneDialogList.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PhoneDialogList.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PhoneDialogList.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PhoneDialogList.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T18:42:17.963Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "StoreClientListSupplier.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListSupplier.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListSupplier.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListSupplier.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListSupplier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T18:45:42.413Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CalendarEventElement.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CalendarEventElement.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\CalendarEventElement.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CalendarEventElement.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\CalendarEventElement.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:19:26.048Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Gunsmith\u0027m\\Core.cs",
+              "RelativeDocumentMoniker": "Gunsmith\u0027m\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Gunsmith\u0027m\\Core.cs",
+              "RelativeToolTip": "Gunsmith\u0027m\\Core.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:34:23.423Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreClientManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "ViewState": "AgIAANsDAAAAAAAAAAAAANsDAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:17:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowcaseHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ShowcaseHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ShowcaseHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ShowcaseHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ShowcaseHelper.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAnwAIBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:58:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreClientListDict.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListDict.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListDict.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListDict.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListDict.cs",
+              "ViewState": "AgIAAKcCAAAAAAAAAAAnwL4CAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:58:43.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreClientListTier.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTier.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTier.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTier.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTier.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAPoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:54:59.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AmenitiesManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesManager.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T20:13:31.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreClientListWanted.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWanted.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWanted.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWanted.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWanted.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAnwIEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T23:07:29.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStore.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerStore.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PlayerStore.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerStore.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PlayerStore.cs",
+              "ViewState": "AgIAAGkPAAAAAAAAAAArwIMPAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:03:40.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MachineFurnace.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineFurnace.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MachineFurnace.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineFurnace.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MachineFurnace.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T22:58:14.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StoreClientListWater.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWater.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWater.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWater.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListWater.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T21:05:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StoreClientListAppraisal.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListAppraisal.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListAppraisal.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListAppraisal.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListAppraisal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:21:33.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScavHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ScavHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ScavHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ScavHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ScavHelper.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAIAwwJIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:02:27.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HealthData.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\HealthData.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\HealthData.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\HealthData.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\HealthData.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAADgv+4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:04:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StoreClientListBarter.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListBarter.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListBarter.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListBarter.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListBarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:10:13.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BarterOfferList.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterOfferList.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\BarterOfferList.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterOfferList.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\BarterOfferList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:07:22.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExchangeBarter.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ExchangeBarter.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ExchangeBarter.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ExchangeBarter.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ExchangeBarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:10:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BarterResult.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterResult.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\BarterResult.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterResult.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\BarterResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:10:10.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BarterHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\BarterHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\BarterHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\BarterHelper.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:09:53.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\BiggerBudgets\\Core.cs",
+              "RelativeDocumentMoniker": "BiggerBudgets\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\BiggerBudgets\\Core.cs",
+              "RelativeToolTip": "BiggerBudgets\\Core.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:08:30.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CommissaryUIManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryUIManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryUIManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T18:32:34.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CommissaryItemData.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryItemData.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryItemData.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryItemData.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T18:32:34.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CommissaryElement.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryElement.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryElement.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryElement.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T18:32:22.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CommissaryData.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryData.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryData.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CommissaryData.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\CommissaryData.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T21:13:20.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NewsUIManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NewsUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\NewsUIManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NewsUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\NewsUIManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T21:13:29.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StoreOperationManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreOperationManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreOperationManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreOperationManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreOperationManager.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAQwCMBAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T21:14:18.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StoreStation.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreStation.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreStation.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreStation.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreStation.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T21:14:27.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "MachineAlarm.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineAlarm.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MachineAlarm.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineAlarm.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MachineAlarm.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:19:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Schematic.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Schematic.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\Schematic.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Schematic.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\Schematic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:09:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "RatTrap.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RatTrap.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\RatTrap.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RatTrap.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\RatTrap.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:09:32.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "RecipeSelectHandler.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RecipeSelectHandler.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\RecipeSelectHandler.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RecipeSelectHandler.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\RecipeSelectHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:09:29.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\RecipeManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RecipeManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\RecipeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:09:25.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "NavigationHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NavigationHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\NavigationHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NavigationHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\NavigationHelper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:09:03.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ItemCondition.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemCondition.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ItemCondition.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemCondition.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ItemCondition.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:08:46.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ItemCategory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemCategory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ItemCategory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemCategory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ItemCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:08:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "AmmoBoxHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmmoBoxHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AmmoBoxHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmmoBoxHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AmmoBoxHelper.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:07:51.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Arm.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Arm.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\Arm.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Arm.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\Arm.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:07:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AppGemstoneHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AppGemstoneHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AppGemstoneHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AppGemstoneHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AppGemstoneHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:07:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\Core.cs",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\Core.cs",
+              "RelativeToolTip": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\Core.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwGcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:06:50.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "BoxDuplicator.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\BoxDuplicator.cs",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\BoxDuplicator.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\BoxDuplicator.cs",
+              "RelativeToolTip": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\BoxDuplicator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:06:48.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "AlcoholMerchantPerk.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\AlcoholMerchantPerk.cs",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\AlcoholMerchantPerk.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\AlcoholMerchantPerk.cs",
+              "RelativeToolTip": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u6E90\u7801_JacksonPerks\\AlcoholMerchantPerk.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:06:47.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ModHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ModHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ModHelper.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:03:38.622Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MapUIManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MapUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MapUIManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MapUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MapUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:16:01.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "ViewState": "AgIAAMsIAAAAAAAAAAAewOkIAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T02:19:22.609Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExchangeManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ExchangeManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ExchangeManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ExchangeManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ExchangeManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:54:15.085Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HusbandryHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\HusbandryHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\HusbandryHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\HusbandryHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\HusbandryHelper.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAnwMQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T22:41:58.459Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToggleAppearanceHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ToggleAppearanceHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ToggleAppearanceHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ToggleAppearanceHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ToggleAppearanceHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T20:45:48.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagState.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\TagState.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\TagState.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\TagState.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\TagState.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T21:34:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveItemNode.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T21:02:07.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemTypeUIElement.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemTypeUIElement.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ItemTypeUIElement.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemTypeUIElement.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ItemTypeUIElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T21:01:46.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Core.cs",
+              "RelativeDocumentMoniker": "Expedited Shipping\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Core.cs",
+              "RelativeToolTip": "Expedited Shipping\\Core.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAASwPgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T17:38:11.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiscItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MiscItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MiscItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MiscItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MiscItemDirectory.cs",
+              "ViewState": "AgIAAEQCAAAAAAAAAAAgwGICAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:39:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NegociationData.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NegociationData.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\NegociationData.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NegociationData.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\NegociationData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T21:02:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DropDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DropDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\DropDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DropDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\DropDirectory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:15.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Expedited Shipping.csproj",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj",
+              "RelativeDocumentMoniker": "Expedited Shipping\\Expedited Shipping.csproj",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj",
+              "RelativeToolTip": "Expedited Shipping\\Expedited Shipping.csproj",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-08T20:09:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreClientListTierSubstance.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTierSubstance.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTierSubstance.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTierSubstance.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListTierSubstance.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAtwEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T16:38:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdvCalendarUIManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AdvCalendarUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AdvCalendarUIManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AdvCalendarUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AdvCalendarUIManager.cs",
+              "ViewState": "AgIAALIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T20:53:22.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreClientListRev.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListRev.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListRev.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListRev.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListRev.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:59:10.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Augging Out\\Core.cs",
+              "RelativeDocumentMoniker": "Augging Out\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Augging Out\\Core.cs",
+              "RelativeToolTip": "Augging Out\\Core.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T18:08:34.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GridShapeBuilder.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GridShapeBuilder.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\GridShapeBuilder.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GridShapeBuilder.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\GridShapeBuilder.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAJ8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T15:30:43.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameItemElement.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GameItemElement.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\GameItemElement.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\GameItemElement.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\GameItemElement.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAnwD8BAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T20:18:17.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomUIManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CustomUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\CustomUIManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\CustomUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\CustomUIManager.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAAAM0BAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T20:18:14.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChemicalFeedbackHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ChemicalFeedbackHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ChemicalFeedbackHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ChemicalFeedbackHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ChemicalFeedbackHelper.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAqwNEBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T01:22:07.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MachineRecharger.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineRecharger.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MachineRecharger.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineRecharger.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MachineRecharger.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T19:59:49.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FurnitureItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\FurnitureItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\FurnitureItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\FurnitureItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\FurnitureItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T18:46:03.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AmenitiesItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AmenitiesItemDirectory.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T21:19:56.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DebugPanel.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwFsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:20:24.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "StoreEvent.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreEvent.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreEvent.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreEvent.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreEvent.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T23:27:10.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ModHook.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModHook.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ModHook.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModHook.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ModHook.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:43.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ModItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ModItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ModItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\Candle\\Core.cs",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\Candle\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\Candle\\Core.cs",
+              "RelativeToolTip": "zTools\\1. old mods\\Candle\\Core.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:34:31.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DirectoryMaster.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DirectoryMaster.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\DirectoryMaster.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\DirectoryMaster.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\DirectoryMaster.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:45.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:49.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\Core.cs",
+              "RelativeDocumentMoniker": "MoreEvents\\MoreEvents\\Core.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\Core.cs",
+              "RelativeToolTip": "MoreEvents\\MoreEvents\\Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:01:34.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MachineFridge.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineFridge.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MachineFridge.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineFridge.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MachineFridge.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwK0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T16:37:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UnusedDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\UnusedDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\UnusedDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\UnusedDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\UnusedDirectory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T16:37:37.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "StoreClient.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "ViewState": "AgIAAG8EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:23:54.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AugHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "ViewState": "AgIAAPsCAAAAAAAAAAAAABMDAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:37:08.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ModuleDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModuleDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ModuleDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ModuleDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ModuleDirectory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:39.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NpcCharacterItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NpcCharacterItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\NpcCharacterItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\NpcCharacterItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\NpcCharacterItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:37.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrganDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\OrganDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\OrganDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\OrganDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\OrganDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PerkDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PerkDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PerkDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PerkDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PerkDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:35.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PlayerAbilityItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerAbilityItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PlayerAbilityItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerAbilityItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PlayerAbilityItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:34.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PlayerCharacterItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerCharacterItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PlayerCharacterItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PlayerCharacterItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PlayerCharacterItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:33.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ShipItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ShipItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ShipItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ShipItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ShipItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:32.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "StandardCombatAbilityDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StandardCombatAbilityDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StandardCombatAbilityDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StandardCombatAbilityDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StandardCombatAbilityDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:31.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "WineDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\WineDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\WineDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\WineDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\WineDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:30.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "StationMachinery.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StationMachinery.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StationMachinery.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StationMachinery.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StationMachinery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:28.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TechnicianBackpackDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\TechnicianBackpackDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\TechnicianBackpackDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\TechnicianBackpackDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\TechnicianBackpackDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:27.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ToolDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ToolDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ToolDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ToolDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ToolDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:42:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ConstructionItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ConstructionItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ConstructionItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ConstructionItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ConstructionItemDirectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:57.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MachineHydroponic.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineHydroponic.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MachineHydroponic.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineHydroponic.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MachineHydroponic.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAIwDoBAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:19.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MachineHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\MachineHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\MachineHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\MachineHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:17.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PowerHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PowerHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PowerHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PowerHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PowerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:41:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AugScanner.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AugScanner.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AugScanner.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AugScanner.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AugScanner.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:37:10.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "StoreClientDialogList.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientDialogList.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientDialogList.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientDialogList.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientDialogList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:02:17.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Candle.deps.json",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\Candle\\bin\\Release\\netstandard2.1\\Candle.deps.json",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\Candle\\bin\\Release\\netstandard2.1\\Candle.deps.json",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\zTools\\1. old mods\\Candle\\bin\\Release\\netstandard2.1\\Candle.deps.json",
+              "RelativeToolTip": "zTools\\1. old mods\\Candle\\bin\\Release\\netstandard2.1\\Candle.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-02T14:00:27.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "StoreDoor.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreDoor.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreDoor.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StoreDoor.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreDoor.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:11:28.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "StolenHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StolenHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StolenHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StolenHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StolenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:10:59.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "StationFeature.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StationFeature.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StationFeature.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\StationFeature.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StationFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:10:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Station.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\Station.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Station.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\Station.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T22:10:40.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "SoldItem.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\SoldItem.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SoldItem.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\SoldItem.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SoldItem.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAIwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T02:20:30.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ContainerItemDirectory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAOoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T21:33:51.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "LockHelper.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\LockHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\LockHelper.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\LockHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\LockHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T21:34:10.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Assembly-CSharp.csproj",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Assembly-CSharp.csproj",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\Assembly-CSharp.csproj",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\Assembly-CSharp.csproj",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\Assembly-CSharp.csproj",
+              "ViewState": "AgIAALQAAAAAAAAAAAAqwMgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-31T15:37:06.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "AnimalCage.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AnimalCage.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AnimalCage.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\AnimalCage.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AnimalCage.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwH0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:37:04.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "PhoneUIManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PhoneUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PhoneUIManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\PhoneUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PhoneUIManager.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:39:00.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "RaidManager.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RaidManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\RaidManager.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\TheEntireFuckingGame\\Assembly-CSharp\\RaidManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\RaidManager.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAL0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T02:20:28.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

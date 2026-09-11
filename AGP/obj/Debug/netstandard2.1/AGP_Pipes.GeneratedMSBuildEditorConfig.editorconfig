@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = AGP_Pipes
+build_property.ProjectDir = C:\Program Files (x86)\Steam\steamapps\common\Probably Stolen\11Modding11\AGP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

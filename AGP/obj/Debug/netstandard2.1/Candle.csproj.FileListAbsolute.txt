@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\Probably Stolen\11Modding11\Candle\obj\Debug\netstandard2.1\Candle.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Probably Stolen\11Modding11\Candle\obj\Debug\netstandard2.1\Candle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Probably Stolen\11Modding11\Candle\obj\Debug\netstandard2.1\Candle.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Probably Stolen\11Modding11\Candle\obj\Debug\netstandard2.1\Candle.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Probably Stolen\11Modding11\Candle\obj\Debug\netstandard2.1\Candle.csproj.CoreCompileInputs.cache

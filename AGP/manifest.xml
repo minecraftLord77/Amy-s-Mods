@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>agp_pipes</ID>
+  <Name>All General Production Pipes</Name>
+  <Author>AmyAlt125</Author>
+  <ModVersion>1.0</ModVersion>
+  <Description>A framework for future automation projects in Probably Stolen</Description>
+  <GameVersions>
+    <Version>067</Version>
+  </GameVersions>
+  <Prerequisites>
+  <!-- <Mod></Mod> -->
+  </Prerequisites>
+</Manifest>
