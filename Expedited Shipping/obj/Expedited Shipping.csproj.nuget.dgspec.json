@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj": {}
+    "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Expedited Shipping\\Expedited Shipping.csproj": {}
   },
   "projects": {
-    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj": {
+    "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Expedited Shipping\\Expedited Shipping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj",
+        "projectUniqueName": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Expedited Shipping\\Expedited Shipping.csproj",
         "projectName": "Expedited_Shipping",
-        "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\Expedited Shipping.csproj",
+        "projectPath": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Expedited Shipping\\Expedited Shipping.csproj",
         "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-        "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Expedited Shipping\\obj\\",
+        "outputPath": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Expedited Shipping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wilso\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\MoreEvents.csproj",
+      "projectUniqueName": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\MoreEvents\\MoreEvents\\MoreEvents.csproj",
       "projectName": "MoreEvents",
-      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\MoreEvents.csproj",
+      "projectPath": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\MoreEvents\\MoreEvents\\MoreEvents.csproj",
       "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\obj\\",
+      "outputPath": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\MoreEvents\\MoreEvents\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wilso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

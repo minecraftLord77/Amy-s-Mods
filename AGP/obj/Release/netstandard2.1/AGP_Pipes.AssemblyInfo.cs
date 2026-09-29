@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AGP_Pipes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2418193e700bf515f8f5cae54f495dbf773f0dc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AGP_Pipes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AGP_Pipes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

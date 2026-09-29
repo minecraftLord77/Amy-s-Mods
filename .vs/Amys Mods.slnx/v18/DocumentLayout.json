@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveFiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveFiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveSlotElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SaveSlotElement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SavePreviewData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\SavePreviewData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\BoxMullerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\BoxMullerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListInformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\EmporiumAnalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\EmporiumAnalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\MoreEvents\\MoreEvents\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoreEvents\\MoreEvents\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\PreBuiltItemHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\PreBuiltItemHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\AbilityItemHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheEntireFuckingGame\\Assembly-CSharp\\AbilityItemHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\11Modding11\\Amys Mods\\DEMOBUGGER\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DEMOBUGGER\\Core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveFiles.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveFiles.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveFiles.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveFiles.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveFiles.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:18:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md",
+              "RelativeToolTip": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\\u5168\u7CFB\u7EDF\u9006\u5411\u5DE5\u7A0B\u6280\u672F\u5730\u56FE_v2.md",
+              "ViewState": "AgIAAFkDAAAAAAAAAAAYwOYCAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-29T18:07:41.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContainerItemDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\ContainerItemDirectory.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:06:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveUIManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveUIManager.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveUIManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveUIManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:06:16.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveState.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveState.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveState.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveState.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:06:15.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveSlotElement.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveSlotElement.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveSlotElement.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveSlotElement.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveSlotElement.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:06:12.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SavePreviewData.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SavePreviewData.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SavePreviewData.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SavePreviewData.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SavePreviewData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:06:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveManager.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveManager.cs",
+              "ViewState": "AgIAAIsAAAAA8DLDRqkawJUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:06:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveItemNode.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\SaveItemNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:05:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoxMullerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\BoxMullerGenerator.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\BoxMullerGenerator.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\BoxMullerGenerator.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\BoxMullerGenerator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T18:05:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreClient.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClient.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAEwIUBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:45:41.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoreClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientManager.cs",
+              "ViewState": "AgIAAGIEAAAAAAAAAAAEwH8EAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:44:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StoreClientListInformation.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListInformation.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListInformation.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListInformation.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\StoreClientListInformation.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:44:25.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md",
+              "RelativeDocumentMoniker": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md",
+              "RelativeToolTip": "zTools\\1. old mods\\WagesPerks_\u5F00\u53D1\u7248_20260901\\\u7ECF\u9A8C\u6587\u6863\\ExtraPerks_\u6280\u672F\u62C6\u5305\u5206\u6790.md",
+              "ViewState": "AgIAAMYBAAAAAAAAAAAYwNoBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-27T14:43:48.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmporiumAnalytics.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\EmporiumAnalytics.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\EmporiumAnalytics.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\EmporiumAnalytics.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\EmporiumAnalytics.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAABoBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:43:45.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DebugPanel.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\DebugPanel.cs",
+              "ViewState": "AgIAAGoEAAAAAAAAAAAEwH4EAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:43:40.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AugHelper.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AugHelper.cs",
+              "ViewState": "AgIAAMoCAAAAAAAAAAAEwN4CAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:43:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PreBuiltItemHelper.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\PreBuiltItemHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\PreBuiltItemHelper.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\PreBuiltItemHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\PreBuiltItemHelper.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv5IAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:33:36.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\MoreEvents\\MoreEvents\\Core.cs",
+              "RelativeDocumentMoniker": "MoreEvents\\MoreEvents\\Core.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\MoreEvents\\MoreEvents\\Core.cs",
+              "RelativeToolTip": "MoreEvents\\MoreEvents\\Core.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAEwLMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:33:12.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\GameItem.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAEwEUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:30:57.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AbilityItemHelper.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\AbilityItemHelper.cs",
+              "RelativeDocumentMoniker": "TheEntireFuckingGame\\Assembly-CSharp\\AbilityItemHelper.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\TheEntireFuckingGame\\Assembly-CSharp\\AbilityItemHelper.cs",
+              "RelativeToolTip": "TheEntireFuckingGame\\Assembly-CSharp\\AbilityItemHelper.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:30:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\DEMOBUGGER\\Core.cs",
+              "RelativeDocumentMoniker": "DEMOBUGGER\\Core.cs",
+              "ToolTip": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\DEMOBUGGER\\Core.cs",
+              "RelativeToolTip": "DEMOBUGGER\\Core.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAADwv7MAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:08:20.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

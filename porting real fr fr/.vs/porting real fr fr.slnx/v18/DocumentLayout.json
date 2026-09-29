@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\modcorpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:modcorpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\modclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:modclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\keycardpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:keycardpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\debugpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:debugpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:manifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:directory.build.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\porting real fr fr\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAB885-F71E-BF1F-9AC9-64648ACD9E42}|porting real fr fr.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModEntry.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\ModEntry.cs",
+              "RelativeDocumentMoniker": "ModEntry.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\ModEntry.cs",
+              "RelativeToolTip": "ModEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:33:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModCorpos.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\ModCorpos.cs",
+              "RelativeDocumentMoniker": "ModCorpos.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\ModCorpos.cs",
+              "RelativeToolTip": "ModCorpos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:33:25.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModClients.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\ModClients.cs",
+              "RelativeDocumentMoniker": "ModClients.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\ModClients.cs",
+              "RelativeToolTip": "ModClients.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:29:02.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyCardPatch.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\KeyCardPatch.cs",
+              "RelativeDocumentMoniker": "KeyCardPatch.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\KeyCardPatch.cs",
+              "RelativeToolTip": "KeyCardPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:28:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DebugPatch.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\DebugPatch.cs",
+              "RelativeDocumentMoniker": "DebugPatch.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\DebugPatch.cs",
+              "RelativeToolTip": "DebugPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:27:49.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manifest.xml",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\manifest.xml",
+              "RelativeDocumentMoniker": "manifest.xml",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\manifest.xml",
+              "RelativeToolTip": "manifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-18T22:26:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-18T22:26:45.261Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:25:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\porting real fr fr\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwIcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:28:06.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

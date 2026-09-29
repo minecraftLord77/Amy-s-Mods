@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>probably_nuclear</ID>
+  <Name>Probably Nuclear</Name>
+  <Author>Lord (TheSecondLord)</Author>
+  <ModVersion>1.0</ModVersion>
+  <Description>Adds items and mechanics based on the Syndicate from SS13/14. Demo version.</Description>
+  <GameVersions>
+    <Version>047</Version>
+  </GameVersions>
+  <Prerequisites />
+</Manifest>

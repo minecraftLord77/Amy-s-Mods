@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\",
+  "WorkspaceRootPath": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\MoreEvents\\MoreEvents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7053751-9E48-7A0E-1D24-639F3A6DD5DD}|MoreEvents.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\probably stolen\\11modding11\\moreevents\\moreevents\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7053751-9E48-7A0E-1D24-639F3A6DD5DD}|MoreEvents.csproj|c:\\users\\wilso\\...11modding11\\amy\u0027s mods\\moreevents\\moreevents\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7053751-9E48-7A0E-1D24-639F3A6DD5DD}|MoreEvents.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 236,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Core.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\Core.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\MoreEvents\\MoreEvents\\Core.cs",
               "RelativeDocumentMoniker": "Core.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\MoreEvents\\MoreEvents\\Core.cs",
+              "ToolTip": "C:\\Users\\wilso\\...11Modding11\\Amy\u0027s Mods\\MoreEvents\\MoreEvents\\Core.cs",
               "RelativeToolTip": "Core.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-29T15:34:32.51Z",
               "EditorCaption": ""

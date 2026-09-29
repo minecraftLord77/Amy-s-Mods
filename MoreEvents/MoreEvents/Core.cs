@@ -213,6 +213,15 @@ public class ActionDictModded
                 PlayerStore.Instance.storeClientManager.AddClient(storeClient);
             }
         },
+        {
+            "counterfeitCyberneticWaveModdedAction",
+            delegate ()
+            {
+                StoreClient storeClient = ModdedEventClients.CreateExpiredImmunivaxSeller();
+                storeClient.eventSourceId="expiredImmunivaxDumping";
+                PlayerStore.Instance.storeClientManager.AddClient(storeClient);
+            }
+        },
     };
 }
 
@@ -392,6 +401,7 @@ public class NormalEventListModded
         new StoreEventBlueprint(new Func<StoreEvent>(CreateCommandLeak),3,"commandLeak"),
         new StoreEventBlueprint(new Func<StoreEvent>(CreateRobbedTrain),5,"robbedTrain"),
         new StoreEventBlueprint(new Func<StoreEvent>(CreateSecurityBreach),7,"securityBreach"),
+        new StoreEventBlueprint(new Func<StoreEvent>(CreateCounterfeitCyberneticWave),4,"counterfeitCyberneticWave"),
         //new StoreEventBlueprint(new Func<StoreEvent>(CreateExpiredImmunivaxDumping),10,"securityBreach"),
     };              
     public static StoreEvent CreateTerroristAttack()
@@ -407,9 +417,9 @@ public class NormalEventListModded
         storeEvent.importance = 9;
         storeEvent.eventType = StoreEvent.EventType.NORMALE;
         storeEvent.eventArea = StoreEvent.EventArea.ALL;
-        storeEvent.negociationDatas.Add(new NegociationData("POISON", 100, storeEvent.newsName, storeEvent.displayName));
-        storeEvent.negociationDatas.Add(new NegociationData("MATERIAL", 200, storeEvent.newsName, storeEvent.displayName));
-        storeEvent.negociationDatas.Add(new NegociationData("WEAPON", 100, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.negociationDatas.Add(new NegociationData("POISON", 50, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.negociationDatas.Add(new NegociationData("MATERIAL", 100, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.negociationDatas.Add(new NegociationData("WEAPON", 50, storeEvent.newsName, storeEvent.displayName));
         storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
         return storeEvent;
     }
@@ -465,7 +475,7 @@ public class NormalEventListModded
         storeEvent.importance = 7;
         storeEvent.eventType = StoreEvent.EventType.NORMALE;
         storeEvent.eventArea = StoreEvent.EventArea.ALL;
-        storeEvent.negociationDatas.Add(new NegociationData("CONTRABAND", 300, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.negociationDatas.Add(new NegociationData("CONTRABAND", 100, storeEvent.newsName, storeEvent.displayName));
         storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
         return storeEvent;
     }
@@ -610,23 +620,54 @@ public class NormalEventListModded
         storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
         return storeEvent;
     }
-    //public static StoreEvent CreateExpiredImmunivaxDumping()
-    //{
-    //    StoreEvent storeEvent = new StoreEvent();
-    //    storeEvent.identifier = "expiredImmunivaxDumping";
-    //    storeEvent.newsName = "Immunivax™ Dumping";
-    //    storeEvent.newsDescription = "In a recent storage inspection, the Medical department has tossed out hundreds of Immunivax™s that expired yesterday. Many of these have found their way to scavengers' pockets. Expect medical prices to go down.";
 
-    //    storeEvent.displayName = "Immunivax Recall";
+    public static StoreEvent CreateCounterfeitCyberneticWave()
+    {
+        StoreEvent storeEvent = new StoreEvent();
+        storeEvent.identifier = "counterfeitCyberneticWave";
+        storeEvent.newsName = "Counterfeit Cybernetic Wave!";
+        storeEvent.newsDescription = "A recent shipment of Cybernetics has been found to be counterfeit and leading to many cybernetic related accidents. Avoid allowing any cloth or flammable objects to get near the hands. ";
 
-    //    storeEvent.duration = 2;
-    //    storeEvent.importance = 6;
-    //    storeEvent.eventType = StoreEvent.EventType.NORMALE;
-    //    storeEvent.eventArea = StoreEvent.EventArea.ALL;
-    //    storeEvent.negociationDatas.Add(new NegociationData("MEDICAL", -20, storeEvent.newsName, storeEvent.displayName));
-    //    storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
-    //    return storeEvent;
-    //}
+        storeEvent.displayName = "Counterfeit Cybernetics";
+
+        storeEvent.duration = 3;
+        storeEvent.importance = 4;
+        storeEvent.eventType = StoreEvent.EventType.NORMALE;
+        storeEvent.eventArea = StoreEvent.EventArea.ALL;
+        storeEvent.negociationDatas.Add(new NegociationData("MEDICAL", +30, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
+        return storeEvent;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    //UNUSED
+    public static StoreEvent CreateExpiredImmunivaxDumping()
+    {
+        StoreEvent storeEvent = new StoreEvent();
+        storeEvent.identifier = "expiredImmunivaxDumping";
+        storeEvent.newsName = "Immunivax™ Dumping";
+        storeEvent.newsDescription = "In a recent storage inspection, the Medical department has tossed out hundreds of Immunivax™s that expired yesterday. Many of these have found their way to scavengers' pockets. Expect medical prices to go down.";
+
+        storeEvent.displayName = "Immunivax Recall";
+
+        storeEvent.duration = 2;
+        storeEvent.importance = 6;
+        storeEvent.eventType = StoreEvent.EventType.NORMALE;
+        storeEvent.eventArea = StoreEvent.EventArea.ALL;
+        storeEvent.negociationDatas.Add(new NegociationData("MEDICAL", -20, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
+        return storeEvent;
+    }
     public static StoreEvent CreateSocietalCollapse1()
     {
         if (Core.isApocalypse() > 0 || StoreStation.GetDayCounter()<100)

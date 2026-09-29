@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pU/SO0Qb2gw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wilso\\11Modding11\\Amys Mods\\demobuyggery23\\demobuyggery23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\wilso\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\wilso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

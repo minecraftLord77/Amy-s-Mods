@@ -1,0 +1,56 @@
+item_cobra,Cobra
+item_cybersun_pen,Cybersun Pen
+item_emag,EMAG
+item_energy_sword,Energy Sword
+item_holoparasite_injector,Holoparasite Injector
+item_hyperzine_injector,Hyperzine Injector
+item_implanter,Implanter
+item_interdyne_herbals,Interdyne Herbals
+item_minibomb,Minibomb
+item_nuke_disk,Nuclear Authentication Disk
+item_suspicious_toolbox,Suspicious Toolbox
+item_syndicate_box,Syndicate Armory Crate
+item_syndicate_business_card,Syndicate Business Card
+item_syndicate_gas_mask,Syndicate Gas Mask
+item_syndicate_soap,Syndicate Soap
+item_telecrystal,Telecrystal
+item_throwing_knife,Throwing Knife
+item_uplink,Uplink
+
+item_cobra_flavor,A silenced pistol designed for stealthy assassinations.
+item_cybersun_pen_flavor,Uses advanced technology and a hardlight tip to erase ink and forge documents.
+item_emag_flavor,The Syndicate's iconic EMAG, created from a hacked ID card.
+item_energy_sword_flavor,An iconic weapon wielded by countless Syndicate operatives. Activating it would certainly attract unwanted attention.
+item_holoparasite_injector_flavor,The pride and joy of Cybersun. Embeds a bioengineered parasite below the skin capable of manifesting a hardlight guardian to defend its host.
+item_hyperzine_injector_flavor,A powerful mixture of combat stimulants produces by Interdyne. Far more potent than Oxymore.
+item_implanter_flavor,Contains one of the Syndicate's wide range of subdermal implants.
+item_interdyne_herbals_flavor,Medicine-laced cigarettes, for agents who need to recover from fights and look cool doing so.
+item_minibomb_flavor,An easily concealed grenade which creates a short-ranged yet devastatingly powerful explosion.
+item_nuke_disk_flavor,Are you sure that whatever you're doing is really worth it?
+item_suspicious_toolbox_flavor,Designed both for holding tools and for violently swinging at people's heads.
+item_syndicate_box_flavor,A cache of highly illegal Syndicate gear. Possession alone is treason against the station.
+item_syndicate_business_card_flavor,A slip of Syndicate-branded paper.
+item_syndicate_gas_mask_flavor,The visor is made from a protective material capable of both resisting impacts and shielding the wearer from bright lights.
+item_syndicate_soap_flavor,A bar of scented soap. Deemed to be contraband for its Syndicate branding.
+item_telecrystal_flavor,It hums with energy and glows a faint red.
+item_throwing_knife_flavor,A lightweight knife with an aerodynamic design and a point sharp enough to pierce armor.
+item_uplink_flavor,An old radio, tuned into the Syndicate Uplink network.
+
+item_cobra_desc,Has a built-in silencer. Chambered in custom-made 10mm Caseless ammunition.
+item_cybersun_pen_desc,Functions as a screwdriver.
+item_emag_desc,Opens all locks, no exceptions.
+item_syndicate_box_desc,A locked crate. Painted with the Syndicate logo. Full of supplies. Unlikely to be opened by any standard station keycards.
+item_uplink_desc,Can be used to trade Telecrystals for high-value Syndicate items.
+
+
+corpo_name_interdyne,Interdyne Pharmaceuticals
+corpo_name_gorlex,Gorlex Marauders
+corpo_name_waffle,Waffle Co.
+corpo_name_self,S.E.L.F.
+corpo_name_donk,Donk Co.
+corpo_name_cybersun,Cybersun Industries
+
+
+name_ex_syndicate_agent,Ex-Syndicate Agent
+dialog_ex_syndicate_agent_1,"I don't need these anymore, but I heard that you might."
+dialog_ex_syndicate_agent_2,"Don't let it fall into the wrong hands. If you do, They'll know."

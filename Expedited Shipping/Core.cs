@@ -27,6 +27,14 @@ public class Core : MelonMod
 
         logger = LoggerInstance;
         LoggerInstance.Msg("Initialized. Consider yourself expedited.");
+        foreach (var blueprint in NormalEventListModded.NewNormalEventBlueprints)
+        {
+            StoreEventManager.normalEventBlueprints.Add(blueprint);
+        }
+        foreach (var kvp in ActionDictModded.newActions)
+        {
+            StoreEventActionDict.actions[kvp.Key] = kvp.Value;
+        }
     }
 
     public override void OnLateInitializeMelon()
@@ -212,12 +220,14 @@ public class ModdedItems
         return new ValueTuple<PixelWindow, GameSlotInventory, GameInventory>(pixelWindow, gameSlotInventory, gameGridInventory2);
     }
 
-    public static void ModifyTag(ref GameItem item, string field, object newValue)
+    public static void ModifyTag(GameItem item, string field, object newValue)
     {
         item.ModifyTag(field, (Action<TagState>)delegate (TagState state)
         {
-            if (newValue is bool) state.SetBool(newValue);
-            state.SetString("lowerlevelrobbery");
+            if (newValue is bool) state.SetBool((bool)newValue);
+            if (newValue is float) state.SetFloat((float)newValue);
+            if (newValue is string) state.SetString((string)newValue);
+            if (newValue is int) state.SetInt((int)newValue);
         }, false);
     }
 
@@ -282,6 +292,17 @@ public class ModdedItems
         return item;
     }
 
+    public GameItem GenerateLogItem(IEnumerable<string> events)
+    {
+        GameItem gameItem = ItemSpawner.Spawn("expedition_log");
+        string buffer = "";
+        foreach (string thing in events)
+        {
+            buffer = buffer + thing + "\n";
+        }
+        gameItem.shortDescription = buffer;
+        return gameItem;
+    }
 }
 
 public class Expedition
@@ -295,7 +316,7 @@ public class Expedition
             Core.logger.Msg("No plan inserted into raider terminal");
             return;
         }
-        string planType = plan.GetTagReadonly("generic_plan_blueprint").GetString()
+        string planType = plan.GetTagReadonly("generic_plan_blueprint").GetString();
         int foodPerDay, danger, weapons;
         if (planType=="lower_level_robbery")
         {
@@ -313,6 +334,27 @@ public class Expedition
 
 public class ModdedClients
 {
+    public static StoreClient CreateAugHunter()
+    {
+        StoreClient storeClient = new StoreClient();
+        storeClient.identifier = "revRaider";
+        storeClient.displayName = LocHelper.GetLocalizedClientName("name_revolution_raider");
+        storeClient.spriteName = SpriteDict.GetRandomRevSpriteName();
+        StoreClientFactionSetup.InitRev(storeClient);
+        storeClient.clientIntent = StoreClient.ClientIntent.DIALOGUE;
+        storeClient.mainDialogue.SetText(storeClient.displayName, "Skibidi")
+            .NextDialogue().SetText(storeClient.displayName, "Skibidi2")
+            .NextDialogue().SetText(storeClient.displayName, "Skibidi3")
+            .SetEndAction((Action)delegate
+            {
+                PlayerStore.Instance.AddDirectSellingItemToTable(DirectoryMaster.Item(""), true, true, false, 50);
+            }
+        );
+        storeClient.AddBasicDialog();
+        storeClient.CompleteClientCreation(false);
+        return storeClient;
+    }
+
     public static StoreClient CreateLowerLevelThief()
     {
         StoreClient storeClient = new StoreClient();
@@ -335,3 +377,46 @@ public class ModdedClients
     }
 }
 
+public class NormalEventListModded
+{
+    public static List<StoreEventBlueprint> NewNormalEventBlueprints = new List<StoreEventBlueprint>
+    {
+        new StoreEventBlueprint(new Func<StoreEvent>(CreateAugCampDiscovered),4,"augCampDiscovered"),
+        
+        //new StoreEventBlueprint(new Func<StoreEvent>(CreateExpiredImmunivaxDumping),10,"securityBreach"),
+    };
+
+    public static StoreEvent CreateAugCampDiscovered()
+    {
+        StoreEvent storeEvent = new StoreEvent();
+        storeEvent.identifier = "augCampDiscovered";
+        storeEvent.newsName = $"Augs In Sector {(StoreStation.instance.dayCounter*67)%100}";
+        storeEvent.newsDescription = $"A large Aug camp has been discovered in Sector {(StoreStation.instance.dayCounter*67+11)%100}. Remain calm, and expect weapon prices to rise.";
+
+        storeEvent.displayName = "Aug Camp Discovered";
+
+        storeEvent.duration = 1;
+        storeEvent.importance = 9;
+        storeEvent.eventType = StoreEvent.EventType.NORMALE;
+        storeEvent.eventArea = StoreEvent.EventArea.ALL;
+        storeEvent.negociationDatas.Add(new NegociationData("WEAPON", 50, storeEvent.newsName, storeEvent.displayName));
+        storeEvent.addClientFromEventActionId = storeEvent.identifier + "ModdedAction";
+        return storeEvent;
+    }
+}
+
+public class ActionDictModded
+{
+    public static Dictionary<string, Action> newActions = new Dictionary<string, Action>()
+    {
+        {
+            "augCampDiscoveredAction",
+            delegate()
+            {
+                StoreClient storeClient = ModdedClients.CreateAugHunter();
+                storeClient.eventSourceId="augCampDiscovered";
+                PlayerStore.Instance.storeClientManager.AddClient(storeClient);
+            }
+        },
+    };
+}

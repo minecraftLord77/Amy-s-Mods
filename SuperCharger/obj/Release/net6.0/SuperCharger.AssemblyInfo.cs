@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperCharger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2418193e700bf515f8f5cae54f495dbf773f0dc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperCharger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperCharger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

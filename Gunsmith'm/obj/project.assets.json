@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Gunsmith'm\\Gunsmith'm.csproj",
+      "projectUniqueName": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Gunsmith'm\\Gunsmith'm.csproj",
       "projectName": "Gunsmith_m",
-      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Gunsmith'm\\Gunsmith'm.csproj",
+      "projectPath": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Gunsmith'm\\Gunsmith'm.csproj",
       "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-      "outputPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Probably Stolen\\11Modding11\\Gunsmith'm\\obj\\",
+      "outputPath": "C:\\Users\\wilso\\...11Modding11\\Amy's Mods\\Gunsmith'm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wilso\\AppData\\Roaming\\NuGet\\NuGet.Config",
